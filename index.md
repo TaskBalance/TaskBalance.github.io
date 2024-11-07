@@ -7,6 +7,6 @@ title: "Happy Jekylling!"
 
 Start developing your Jekyll website.
 
-[Privacy]({% link privacy/index.md %})
-[Term & Conditions]({% link term/index.md %})
+[Privacy]({{ site.baseurl }}{% link privacy/index.md %})
+[Term & Conditions]({{ site.baseurl }}{% link term/index.md %})
 
